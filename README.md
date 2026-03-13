@@ -69,7 +69,7 @@ Risk Scorecard  ─── 5 tiers: Very Low → Very High
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-default-risk.git
+git clone https://github.com/Kotli12/loan-default-risk.git
 cd loan-default-risk
 
 python -m venv venv
